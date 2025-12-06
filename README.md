@@ -1,6 +1,6 @@
-# Olá! Eu sou o Arthur (ou Guilherme!) 👋
+# Olá! Eu sou o Guilherme! 👋
 
-Bem-vindo(a) ao meu GitHub! Sou um estudante de Desenvolvimento de Sistemas focado em construir soluções robustas e eficientes.
+Bem-vindo(a) ao meu GitHub! Sou um técnico em Desenvolvimento de Sistemas focado em construir soluções robustas e eficientes.
 
 ---
 
@@ -24,21 +24,18 @@ Estou focado em me tornar um desenvolvedor **Full-Stack**, com maior profundidad
 
 ### 💡 Destaques & Projetos
 
-Aqui você pode adicionar links diretos para seus projetos mais relevantes (TCC, pizzaria fictícia):
+Aqui você pode adicionar links diretos para seus projetos mais relevantes (TCC do curso técnico, pizzaria fictícia "Anchieta's Pizza"):
 
-* **Projeto de TCC Full-Stack:** Aplicação completa utilizando **Java/Spring Boot** para API e **React** para interface. [Link para o Repo do TCC]
-* **Website Fictício:** Demonstração dos fundamentos de **HTML/CSS/JS**. [Link para o Repo do Site]
+* **Projeto de TCC Full-Stack:** Aplicação completa utilizando **Java/Spring Boot** para API e **React** para interface. [https://github.com/Arthur2060/Inpark-backend.git]
+* **Website Fictício:** Demonstração dos fundamentos de **HTML/CSS/JS**. [(https://github.com/Guilherme-C-A-Affonso/anchietasPizza.git)]
 
 ### 🔗 Me Encontre
 
-* [LinkedIn](SEU_LINK_DO_LINKEDIN) - Conecte-se comigo!
-* [Email](mailto:SEU_EMAIL@gmail.com) - Entre em contato.
+* [LinkedIn](https://www.linkedin.com/in/guilherme-correia-de-alencar-affonso-4171863a0/) - Conecte-se comigo!
+* [Email](mailto:guilherme.correiaaffonso@gmail.com) - Entre em contato.
 
 ---
-### 📊 GitHub Stats (Opcional, mas legal!)
-
-Você pode adicionar estatísticas dinâmicas do seu GitHub para deixar o perfil mais interativo:
-
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
