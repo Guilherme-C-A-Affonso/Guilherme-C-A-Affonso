@@ -1,45 +1,45 @@
-## Hi there 👋
+# Olá! Eu sou o Arthur (ou Guilherme!) 👋
 
-<!--
-**Guilherme-C-A-Affonso/Guilherme-C-A-Affonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu GitHub! Sou um estudante de Desenvolvimento de Sistemas focado em construir soluções robustas e eficientes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23805
-Fork on GitHub
-8167
+### 🚀 Stack Principal & Foco de Estudo
 
-back to edit
+Estou focado em me tornar um desenvolvedor **Full-Stack**, com maior profundidade nas seguintes tecnologias:
 
-copy-markdown
+* **Back-end:** Java e Spring Boot
+* **Front-end:** JavaScript e React
+* **Banco de Dados:** MySQL
 
-download markdown
+### 🛠️ Tecnologias e Ferramentas
 
-download backup
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | `Java` • `JavaScript` • `C++` • `Kotlin` |
+| **Web & UI** | `HTML5` • `CSS3` • `React` |
+| **Back-end** | `Spring Boot` • `HTTP` • `MQTT` • `Swagger` |
+| **Versionamento** | `Git` • `GitHub` |
+| **Metodologias** | `Scrum` • `Kanban` (Ágeis) |
 
-preview
-<h1 align="center">Hi 👋, I'm Guilherme Affonso</h1>
-<h3 align="center">A full-stack developer from São Paulo - Brazil</h3>
+### 💡 Destaques & Projetos
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+Aqui você pode adicionar links diretos para seus projetos mais relevantes (TCC, pizzaria fictícia):
+
+* **Projeto de TCC Full-Stack:** Aplicação completa utilizando **Java/Spring Boot** para API e **React** para interface. [Link para o Repo do TCC]
+* **Website Fictício:** Demonstração dos fundamentos de **HTML/CSS/JS**. [Link para o Repo do Site]
+
+### 🔗 Me Encontre
+
+* [LinkedIn](SEU_LINK_DO_LINKEDIN) - Conecte-se comigo!
+* [Email](mailto:SEU_EMAIL@gmail.com) - Entre em contato.
+
+---
+### 📊 GitHub Stats (Opcional, mas legal!)
+
+Você pode adicionar estatísticas dinâmicas do seu GitHub para deixar o perfil mais interativo:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
--->
