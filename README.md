@@ -56,10 +56,13 @@ Aqui você pode adicionar links diretos para seus projetos mais relevantes (TCC 
 
 ---
 ### 📊 GitHub Stats
+## 📈 Estatísticas do GitHub
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilherme-c-a-affonso&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=guilherme-c-a-affonso&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-C-A-Affonso&layout=compact&theme=tokyonight&hide_border=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=guilherme-c-a-affonso&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
+
