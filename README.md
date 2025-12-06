@@ -37,6 +37,6 @@ Aqui você pode adicionar links diretos para seus projetos mais relevantes (TCC 
 ---
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-C-A-Affonso&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-C-A-Affonso&layout=compact&theme=radical" alt="Top Languages" />
 </p>
